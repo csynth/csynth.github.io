@@ -1,11 +1,11 @@
 # csynth.github.io
 Github pages hosts a live version of CSynth.
-To run CSynth [https://csynth.github.io/csynth/](https://csynth.github.io/csynth/)
+To run CSynth with simple starting data: [https://csynth.github.io/csynth/csynth.html](https://csynth.github.io/csynth/csynth.html)
 
 For more information see [https://csynth.github.io/csynth/](https://csynth.github.io/csynth/)
 and [https://csynth.org/](https://csynth.org/), which also has more information about examples.
 
-To go straight to the examples:
+To run more examples:
 
 [Example 1. Comparison of the alpha-globin locus in different cell types:](https://csynth.github.io/csynth/csynth.html?cexample1)
 
